@@ -1,1 +1,1 @@
-# Git2Zip
+GitHistoryZipper
